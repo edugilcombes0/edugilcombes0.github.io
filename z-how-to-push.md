@@ -1,4 +1,4 @@
-detalle. edugilcombes | Argentina00
+detalle. edugilcombes0 | Argentina00
 
 I created a script and placed it at /bin under the name of ramon. basically like this:
 #!/bin/bash # My first script
